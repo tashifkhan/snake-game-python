@@ -3,7 +3,7 @@ Snake Game like the one on the legendary Nokia 3310
 
 # INTRODUCTION
 
-We have created the classic Snake Game using Python. The Snake Game was first seen on the legendary Nokia 3310 phone which was one of the first phones available to consumers at a reasonable price. Though a lot of time has passed since then, still everyone finds this game a very addictive one. We also have memories associated with this game and that’s why we discussed and decided to make this game. But, the implementation of the game was not as easy as it is to play the game. Especially, because we were just doing the school Python syllabus, so had no idea about how to bring a graphical interface. 
+We have created the classic Snake Game using Python. The Snake Game was first seen on the legendary Nokia 3310 phone which was one of the first phones available to consumers at a reasonable price. Though a lot of time has passed since then, still everyone finds this game a very addictive one. We also have memories associated with this game and that’s why we discussed and decided to make this game. 
 
 ## The working of the game:
 
